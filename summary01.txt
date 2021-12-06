@@ -1,0 +1,8 @@
+Create an empty file with your student id number in your repository's root folder.
+
+Create a folder in your github repository Week01
+
+Read: First 10 pages of "50 years of data science" https://www.tandfonline.com/doi/full/10.1080/10618600.2017.1384734
+
+Write a half page summary of the text explaining what is data science save as summary.txt (Make sure that there are no typos and gramatically correct)
+Complete HW-01.ipynb
