@@ -11,7 +11,7 @@ This project explores **Sentiment Analysis** and **Portfolio Optimization** usin
 - **Portfolio Optimization**: Developed two-asset portfolio optimization strategies, integrating the predictive capabilities of the sentiment models to inform investment decisions.
 - **Financial Data Science**: This project serves as a case study in the application of machine learning and NLP in financial markets.
 
-## Technologies Used
+## Technologies
 
 - **Python**: For data processing and model implementation.
 - **NLTK**: For Natural Language Processing and sentiment analysis.
